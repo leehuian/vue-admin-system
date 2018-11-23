@@ -1,0 +1,25 @@
+@import '../bootstrap/css/bootstrap.css';
+@import '../layer/theme/default/layer.css';
+table.lha-pageinfo-table {
+    font-size: 14px;
+    color: #383838;
+    text-align: left;
+    width: 100%;
+    table-layout: fixed;
+}
+
+table.lha-pageinfo-table tr td:first-child {
+    width: 100px;
+    font-weight: 600;
+}
+
+table.lha-pageinfo-table td {
+    padding: 5px;
+    line-height: 1.5;
+    vertical-align: top;
+    word-break: break-word;
+}
+
+table.lha-pageinfo-table tr+tr {
+    border-top: 0.5px solid #ddd;
+}

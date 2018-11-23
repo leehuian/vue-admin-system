@@ -1,0 +1,93 @@
+{
+    "bizList": [{
+            "bizId": "001",
+            "bizName": "生活"
+        },
+        {
+            "bizId": "002",
+            "bizName": "一网通"
+        },
+        {
+            "bizId": "003",
+            "bizName": "投资"
+        },
+        {
+            "bizId": "004",
+            "bizName": "信用卡"
+        },
+        {
+            "bizId": "005",
+            "bizName": "一卡通"
+        }
+    ],
+    "moduleList": [{
+            "moduleId": "1001",
+            "moduleName": "受托"
+        },
+        {
+            "moduleId": "1002",
+            "moduleName": "组合基金"
+        },
+        {
+            "moduleId": "1003",
+            "moduleName": "外汇"
+        },
+        {
+            "moduleId": "1004",
+            "moduleName": "风评"
+        },
+        {
+            "moduleId": "1005",
+            "moduleName": "朝朝盈"
+        },
+        {
+            "moduleId": "1006",
+            "moduleName": "保险"
+        }
+    ],
+    "pageList": [{
+            "pageId": "1001001",
+            "pageName": "受托赎回"
+        },
+        {
+            "pageId": "1001002",
+            "pageName": "受托购买"
+        },
+        {
+            "pageId": "1001003",
+            "pageName": "撤单"
+        },
+        {
+            "pageId": "1001004",
+            "pageName": "详情查询"
+        },
+        {
+            "pageId": "1001005",
+            "pageName": "历史收益"
+        },
+        {
+            "pageId": "1001006",
+            "pageName": "全部持仓"
+        },
+        {
+            "pageId": "1001007",
+            "pageName": "理财转让"
+        },
+        {
+            "pageId": "1001008",
+            "pageName": "查询密码"
+        },
+        {
+            "pageId": "1001009",
+            "pageName": "产品协议阅读"
+        },
+        {
+            "pageId": "1001010",
+            "pageName": "风险评估"
+        },
+        {
+            "pageId": "1001011",
+            "pageName": "产品适合度评估"
+        }
+    ]
+}

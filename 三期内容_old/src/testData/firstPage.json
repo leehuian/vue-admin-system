@@ -1,0 +1,818 @@
+{
+    "historyObj": {
+        "timeLine": ["2018/10/1 ", "2018/10/2 ", "2018/10/3 ", "2018/10/4 ", "2018/10/5 ", "2018/10/6 ", "2018/10/7 ", "2018/10/8 ", "2018/10/9 ", "2018/10/10", "2018/10/11", "2018/10/12", "2018/10/13", "2018/10/14", "2018/10/15", "2018/10/16", "2018/10/17", "2018/10/18", "2018/10/19", "2018/10/20", "2018/10/21", "2018/10/22", "2018/10/23", "2018/10/24", "2018/10/25", "2018/10/26", "2018/10/27", "2018/10/28", "2018/10/29", "2018/10/30"],
+        "avgAllCount": [10200, 10100, 10300, 10500, 10100, 10115, 12000, 11990, 12100, 11111, 10200, 10100, 10300, 10500, 10100, 10115, 12000, 11990, 12100, 11111, 10200, 10100, 10300, 10500, 10100, 10115, 12000, 11990, 12100, 11111],
+        "avgSucCount": [1020, 1515, 1030, 840, 909, 1213.8, 1800, 2398, 1694, 3888.85, 1020, 1515, 1030, 840, 909, 1213.8, 1800, 2398, 1694, 3888.85, 1020, 1515, 1030, 840, 909, 1213.8, 1800, 2398, 1694, 3888.85],
+        "avgSucRate": [10, 15, 10, 8, 9, 12, 15, 20, 14, 35, 10, 15, 10, 8, 9, 12, 15, 20, 14, 35, 10, 15, 10, 8, 9, 12, 15, 20, 14, 35],
+        "warningLog": [{
+                "moduleName": "投资-基金",
+                "functionName": "基金赎回",
+                "date": "2018-10-10",
+                "allReq": 12050,
+                "sucReq": 520,
+                "sucRate": 2,
+                "functionId": "100001"
+            },
+            {
+                "moduleName": "投资-基金",
+                "functionName": "基金赎回",
+                "date": "2018-10-10",
+                "allReq": 12050,
+                "sucReq": 520,
+                "sucRate": 2,
+                "functionId": "100001"
+            },
+            {
+                "moduleName": "投资-基金",
+                "functionName": "基金赎回",
+                "date": "2018-10-10",
+                "allReq": 12050,
+                "sucReq": 520,
+                "sucRate": 2,
+                "functionId": "100001"
+            },
+            {
+                "moduleName": "投资-基金",
+                "functionName": "基金赎回",
+                "date": "2018-10-10",
+                "allReq": 12050,
+                "sucReq": 520,
+                "sucRate": 2,
+                "functionId": "100001"
+            },
+            {
+                "moduleName": "投资-基金",
+                "functionName": "基金赎回",
+                "date": "2018-10-10",
+                "allReq": 12050,
+                "sucReq": 520,
+                "sucRate": 2,
+                "functionId": "100001"
+            },
+            {
+                "moduleName": "投资-基金",
+                "functionName": "基金赎回",
+                "date": "2018-10-10",
+                "allReq": 12050,
+                "sucReq": 520,
+                "sucRate": 2,
+                "functionId": "100001"
+            },
+            {
+                "moduleName": "投资-基金",
+                "functionName": "基金赎回",
+                "date": "2018-10-10",
+                "allReq": 12050,
+                "sucReq": 520,
+                "sucRate": 2,
+                "functionId": "100001"
+            },
+            {
+                "moduleName": "投资-基金",
+                "functionName": "基金赎回",
+                "date": "2018-10-10",
+                "allReq": 12050,
+                "sucReq": 520,
+                "sucRate": 2,
+                "functionId": "100001"
+            },
+            {
+                "moduleName": "投资-基金",
+                "functionName": "基金赎回",
+                "date": "2018-10-10",
+                "allReq": 12050,
+                "sucReq": 520,
+                "sucRate": 2,
+                "functionId": "100001"
+            },
+            {
+                "moduleName": "投资-基金",
+                "functionName": "基金赎回",
+                "date": "2018-10-10",
+                "allReq": 12050,
+                "sucReq": 520,
+                "sucRate": 2,
+                "functionId": "100001"
+            }
+        ],
+        "allViewData": [{
+                "moduleName": "基金购买",
+                "moduleEnName": "fundgoumai",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金赎回",
+                "moduleEnName": "fundshuhui",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 9,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 11,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 15,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 10,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 11,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 11,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 14,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 10,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 1,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            },
+            {
+                "moduleName": "基金",
+                "moduleEnName": "fund",
+                "moduleId": "096",
+                "netSourceFunctionCount": 6,
+                "missStartOrEndCount": 4,
+                "customerFunctionCount": 3,
+                "oneDayBeforeRate": 12,
+                "twoDayBeforeRate": 11,
+                "threeDayBeforeR": 13,
+                "coreFuncId": "100001",
+                "coreFuncName": "基金列表页"
+            }
+        ],
+        "functionAllReqCount": [{
+                "name": "基金购买",
+                "weight": "1000"
+            },
+            {
+                "name": "基金赎回",
+                "weight": "540"
+            },
+            {
+                "name": "银行卡转账",
+                "weight": "5000"
+            },
+            {
+                "name": "联系人转账",
+                "weight": "5500"
+            },
+            {
+                "name": "一网通开户",
+                "weight": "200"
+            },
+            {
+                "name": "黄金购买",
+                "weight": "1220"
+            },
+            {
+                "name": "受托理财购买",
+                "weight": "3000"
+            },
+            {
+                "name": "受托理财赎回",
+                "weight": "700"
+            },
+            {
+                "name": "组合基金购买",
+                "weight": "600"
+            },
+            {
+                "name": "信用卡还款",
+                "weight": "1200"
+            },
+            {
+                "name": "外汇买卖持仓查询",
+                "weight": "800"
+            },
+            {
+                "name": "风险评估",
+                "weight": "1800"
+            },
+            {
+                "name": "外汇购汇",
+                "weight": "900"
+            },
+            {
+                "name": "一卡通登录",
+                "weight": "10000"
+            },
+            {
+                "name": "基金购买",
+                "weight": "1000"
+            },
+            {
+                "name": "基金赎回",
+                "weight": "540"
+            },
+            {
+                "name": "银行卡转账",
+                "weight": "5000"
+            },
+            {
+                "name": "联系人转账",
+                "weight": "5500"
+            },
+            {
+                "name": "一网通开户",
+                "weight": "200"
+            },
+            {
+                "name": "黄金购买",
+                "weight": "1220"
+            },
+            {
+                "name": "受托理财购买",
+                "weight": "3000"
+            },
+            {
+                "name": "受托理财赎回",
+                "weight": "7000"
+            },
+            {
+                "name": "组合基金购买",
+                "weight": "600"
+            },
+            {
+                "name": "信用卡还款",
+                "weight": "1200"
+            },
+            {
+                "name": "外汇买卖持仓查询",
+                "weight": "800"
+            },
+            {
+                "name": "风险评估",
+                "weight": "1800"
+            },
+            {
+                "name": "外汇购汇",
+                "weight": "900"
+            },
+            {
+                "name": "一卡通登录",
+                "weight": "10000"
+            },
+            {
+                "name": "基金购买",
+                "weight": "1000"
+            },
+            {
+                "name": "基金赎回",
+                "weight": "540"
+            },
+            {
+                "name": "银行卡转账",
+                "weight": "5000"
+            },
+            {
+                "name": "联系人转账",
+                "weight": "5500"
+            },
+            {
+                "name": "一网通开户",
+                "weight": "200"
+            },
+            {
+                "name": "黄金购买",
+                "weight": "1220"
+            },
+            {
+                "name": "受托理财购买",
+                "weight": "3000"
+            },
+            {
+                "name": "受托理财赎回",
+                "weight": "700"
+            },
+            {
+                "name": "组合基金购买",
+                "weight": "600"
+            },
+            {
+                "name": "信用卡还款",
+                "weight": "1200"
+            },
+            {
+                "name": "外汇买卖持仓查询",
+                "weight": "800"
+            },
+            {
+                "name": "风险评估",
+                "weight": "1800"
+            },
+            {
+                "name": "外汇购汇",
+                "weight": "900"
+            },
+            {
+                "name": "一卡通登录",
+                "weight": "10000"
+            },
+            {
+                "name": "基金购买",
+                "weight": "1000"
+            },
+            {
+                "name": "基金赎回",
+                "weight": "540"
+            },
+            {
+                "name": "银行卡转账",
+                "weight": "5000"
+            },
+            {
+                "name": "联系人转账",
+                "weight": "5500"
+            },
+            {
+                "name": "一网通开户",
+                "weight": "200"
+            },
+            {
+                "name": "黄金购买",
+                "weight": "1220"
+            },
+            {
+                "name": "受托理财购买",
+                "weight": "3000"
+            },
+            {
+                "name": "受托理财赎回",
+                "weight": "700"
+            },
+            {
+                "name": "组合基金购买",
+                "weight": "600"
+            },
+            {
+                "name": "信用卡还款",
+                "weight": "1200"
+            },
+            {
+                "name": "外汇买卖持仓查询",
+                "weight": "800"
+            },
+            {
+                "name": "风险评估",
+                "weight": "1800"
+            },
+            {
+                "name": "外汇购汇",
+                "weight": "900"
+            },
+            {
+                "name": "一卡通登录",
+                "weight": "10000"
+            },
+            {
+                "name": "基金购买",
+                "weight": "1000"
+            },
+            {
+                "name": "基金赎回",
+                "weight": "540"
+            },
+            {
+                "name": "银行卡转账",
+                "weight": "5000"
+            },
+            {
+                "name": "联系人转账",
+                "weight": "5500"
+            },
+            {
+                "name": "一网通开户",
+                "weight": "200"
+            },
+            {
+                "name": "黄金购买",
+                "weight": "1220"
+            },
+            {
+                "name": "受托理财购买",
+                "weight": "3000"
+            },
+            {
+                "name": "受托理财赎回",
+                "weight": "700"
+            },
+            {
+                "name": "组合基金购买",
+                "weight": "600"
+            },
+            {
+                "name": "信用卡还款",
+                "weight": "1200"
+            },
+            {
+                "name": "外汇买卖持仓查询",
+                "weight": "800"
+            },
+            {
+                "name": "风险评估",
+                "weight": "1800"
+            },
+            {
+                "name": "外汇购汇",
+                "weight": "900"
+            },
+            {
+                "name": "一卡通登录",
+                "weight": "10000"
+            },
+            {
+                "name": "基金购买",
+                "weight": "1000"
+            },
+            {
+                "name": "基金赎回",
+                "weight": "540"
+            },
+            {
+                "name": "银行卡转账",
+                "weight": "5000"
+            },
+            {
+                "name": "联系人转账",
+                "weight": "5500"
+            },
+            {
+                "name": "一网通开户",
+                "weight": "200"
+            },
+            {
+                "name": "黄金购买",
+                "weight": "1220"
+            },
+            {
+                "name": "受托理财购买",
+                "weight": "3000"
+            },
+            {
+                "name": "受托理财赎回",
+                "weight": "700"
+            },
+            {
+                "name": "组合基金购买",
+                "weight": "600"
+            },
+            {
+                "name": "信用卡还款",
+                "weight": "1200"
+            },
+            {
+                "name": "外汇买卖持仓查询",
+                "weight": "800"
+            },
+            {
+                "name": "风险评估",
+                "weight": "1800"
+            },
+            {
+                "name": "外汇购汇",
+                "weight": "900"
+            },
+            {
+                "name": "一卡通登录",
+                "weight": "10000"
+            },
+            {
+                "name": "基金购买",
+                "weight": "1000"
+            },
+            {
+                "name": "基金赎回",
+                "weight": "540"
+            },
+            {
+                "name": "银行卡转账",
+                "weight": "5000"
+            },
+            {
+                "name": "联系人转账",
+                "weight": "5500"
+            },
+            {
+                "name": "一网通开户",
+                "weight": "200"
+            },
+            {
+                "name": "黄金购买",
+                "weight": "1220"
+            },
+            {
+                "name": "受托理财购买",
+                "weight": "3000"
+            },
+            {
+                "name": "受托理财赎回",
+                "weight": "700"
+            },
+            {
+                "name": "组合基金购买",
+                "weight": "600"
+            },
+            {
+                "name": "信用卡还款",
+                "weight": "1200"
+            },
+            {
+                "name": "外汇买卖持仓查询",
+                "weight": "800"
+            },
+            {
+                "name": "风险评估",
+                "weight": "1800"
+            },
+            {
+                "name": "外汇购汇",
+                "weight": "900"
+            },
+            {
+                "name": "一卡通登录",
+                "weight": "10000"
+            }
+        ]
+    }
+}
